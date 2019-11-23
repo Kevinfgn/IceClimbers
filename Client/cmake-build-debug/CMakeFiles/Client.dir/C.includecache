@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/CLionProjects/Client/ICE-Json.c
+ICE-Json.h
+/home/aaron/CLionProjects/Client/ICE-Json.h
+stdio.h
+-
+json-c/json.h
+-
+
+/home/aaron/CLionProjects/Client/ICE-Json.h
+

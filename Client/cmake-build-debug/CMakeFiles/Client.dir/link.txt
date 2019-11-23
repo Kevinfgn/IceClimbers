@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Client.dir/main.c.o CMakeFiles/Client.dir/Socket.c.o CMakeFiles/Client.dir/ICE-Json.c.o  -o Client -ljson-c 
