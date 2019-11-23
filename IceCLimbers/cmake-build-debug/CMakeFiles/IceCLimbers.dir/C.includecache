@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaron/CLionProjects/IceCLimbers/main.c
+allegro5/allegro.h
+-
+allegro5/allegro_image.h
+-
+allegro5/allegro_native_dialog.h
+-
+allegro5/bitmap.h
+-
+stdio.h
+-
+
